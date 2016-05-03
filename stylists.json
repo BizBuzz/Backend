@@ -1,0 +1,70 @@
+{
+  "stylists": {
+    "Sal C.": {
+        "shop": "Mr Figaro's Barber Shop",
+        "address": "1919 Ave Z Brooklyn, NY 11235",
+        "phone": "(718) 332-2122",
+        "photo": "http://s3-media3.fl.yelpcdn.com/bphoto/ix69CDwurkrtedrUi2dbEw/o.jpg"
+    },
+    "Alban": {
+        "shop": "Mr Figaro's Barber Shop",
+        "address": "1919 Ave Z Brooklyn, NY 11235",
+        "phone": "(718) 332-2122",
+        "photo": "http://s3-media1.fl.yelpcdn.com/bphoto/BmqPw_l2QJy3Ouocg2AvkA/o.jpg"
+    },
+    "Ariel": {
+        "shop": "F Katz VIP Barber Shop",
+        "address": "3377 Shore Pkwy Brooklyn, NY 11235",
+        "phone": 	"(718) 743-4847",
+        "photo": "http://s3-media3.fl.yelpcdn.com/bphoto/Vzok4QUeOmgwdAINtYEm6w/o.jpg"
+    },
+    "Alex": {
+        "shop": "F Katz VIP Barber Shop",
+        "address": "3377 Shore Pkwy Brooklyn, NY 11235",
+        "phone": "(718) 743-4847",
+        "photo": "https://lh3.googleusercontent.com/-zHx8EYXzMPs/UwzqVkhXPyI/AAAAAAAAAB4/DtduBCB6bfgVgXZ8rKj3RGpP7crEenSdQCL0B/w612-h611-no/photo%2B1.PNG"
+    },
+    "Wilson": {
+        "shop": "Wilson's barber shop",
+        "address": "1321 Ave Z Brooklyn, NY 11235",
+        "phone": "(917) 681-6536",
+        "photo": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/941088_492628270792152_1168315724_n.jpg?oh=bf13cc5dd4743a0c3b30735f4a323f9d&oe=57AD159A"
+    },
+    "Sylyse": {
+        "shop": "Shampoo Avenue B, New York, NY 10009",
+        "address": "14 Avenue B",
+        "phone": "(212) 777-2031",
+        "photo": "http://www.shampooavenueb.com/files/images/team/sylyse.jpg"
+    },
+    "Carlos Ortiz": {
+        "shop": "Shampoo Avenue B, New York, NY 10009",
+        "address": "14 Avenue B",
+        "phone": "(212) 777-2031",
+        "photo": "http://www.shampooavenueb.com/files/images/team/carlos.jpg"
+    },
+    "Ash":{
+        "shop": "Shampoo Avenue B, New York, NY 10009",
+        "address": "14 Avenue B",
+        "phone": "(212) 777-2031",
+        "photo": "http://www.shampooavenueb.com/files/images/team/ash.jpg"
+    },
+    "Roman":{
+        "shop": "Roman's Unisex Hair Salon",
+        "address": "8507 4th Ave Brooklyn, NY 11209",
+        "phone": "(718) 748-7829",
+        "photo": "http://s3-media2.fl.yelpcdn.com/bphoto/bEIgUypGHTc_5UPM45gjnQ/o.jpg"
+    },
+    "Christine":{
+        "shop": "Fringe Salon",
+        "address": "248 Broome St, New York, NY 10002",
+        "phone": "(212) 674-8383",
+        "photo": "http://www.fringeny.com/main_stylists_pics/christine.jpg"
+    },
+     "Melody":{
+        "shop": "Fringe Salon",
+        "address": "248 Broome St, New York, NY 10002",
+        "phone": "(212) 674-8383",
+        "photo": "http://www.fringeny.com/main_stylists_pics/melody.jpg"
+    }
+  }
+}    
