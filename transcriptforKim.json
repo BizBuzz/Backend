@@ -1,0 +1,44 @@
+[
+  {
+    "t": "<b>What was your first haircut in America like?</b>",
+    "s": 0.869,
+    "e": 2.869,
+    "hid": "2"
+  },
+  {
+    "t": "<b>When I moved to Brooklyn from Korea, my first haircut </b>",
+    "s": 4.189,
+    "e": 6.189,
+    "hid": "3"
+  },
+  {
+    "t": "<b>was from an Uzbekistani Immigrant who owned a store in my neighborhood</b>",
+    "s": 6.2,
+    "e": 10.269,
+    "hid": "4"
+  },
+  {
+    "t": "<b>I recall having a bad experience there, as his style was very different from that which I was used to in Korea.</b>",
+    "s": 10.469,
+    "e": 16.269,
+    "hid": "5"
+  },
+  {
+    "t": "<b>It brought up the question of how I can filter through the many barbershops in Brooklyn, </b>",
+    "s": 16.469,
+    "e": 20.669,
+    "hid": "7"
+  },
+  {
+    "t": "<b>and find a stylist i'd be able to communicate with, and comfortably approach</b>",
+    "s": 20.869,
+    "e": 25.069,
+    "hid": "9"
+  },
+  {
+    "t": "<b>Once our team started trying to assess that problem, we came up with the idea for ClippR.</b>",
+    "s": 25.269,
+    "e": 31.269,
+    "hid": "11"
+  }
+]
